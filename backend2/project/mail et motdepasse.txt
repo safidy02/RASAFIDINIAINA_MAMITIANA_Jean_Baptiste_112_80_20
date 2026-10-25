@@ -1,0 +1,7 @@
+
+  yas@plateforme.local                   OPERATOR_USER     7@U_YR_0U%IBkXBc
+  airtel@plateforme.local                OPERATOR_USER     TCUih5WqSWXa*1kP
+  orange@plateforme.local                OPERATOR_USER     In@#N5EZ5d8980cw
+  artec.regulation@plateforme.local      ARTEC_REGULATOR   NO5D@q5guUqfyeBc
+  artec.publications@plateforme.local    ARTEC_PUBLISHER   u*!DQl34Ss*afK2Z
+  admin@plateforme.local                 SYSTEM_ADMIN      S%1%at-Q1CRrO769
